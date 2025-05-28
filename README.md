@@ -34,8 +34,16 @@ A role-based web application designed to digitize and streamline fertilizer dist
 
 ## 📸 Screenshots
 
-> Add screenshots here showing both dashboards  
-> *(e.g. login page, officer panel, farmer request form, stock view)*
+![WhatsApp Image 2025-04-12 at 11 20 44_24c4bf77](https://github.com/user-attachments/assets/b83c4b85-359f-4d64-b88c-5282c9f992b0)
+Fig - 1 
+
+![WhatsApp Image 2025-04-12 at 11 21 18_d6deaf28](https://github.com/user-attachments/assets/5100fa41-c487-42b2-81a2-1c54d8f1d139)
+Fig - 2
+
+![WhatsApp Image 2025-04-12 at 11 22 10_ca63c357](https://github.com/user-attachments/assets/71509890-51a6-40c4-a133-8ad303683ac7)
+Fig - 3
+
+
 
 ---
 
